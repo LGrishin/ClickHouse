@@ -667,6 +667,7 @@ add_subdirectory (src)
 add_subdirectory (programs)
 add_subdirectory (tests)
 add_subdirectory (utils)
+add_subdirectory (python_module)
 
 include (cmake/print_include_directories.cmake)
 
